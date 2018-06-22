@@ -33,7 +33,13 @@ h2{
     background-color: rgb(0,0,0,0.8)
 }
 
+#cuteCat{
+    display: in
+}
 
+#indexInfo{
+    padding: 1rem;
+}
 /* contact styles */
 .contactHeader {
     margin-top: 25%;
