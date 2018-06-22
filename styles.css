@@ -55,7 +55,20 @@ h1 {
 
 
 /* about styles */ 
-
+.bodyBackground {
+    background-image: url("Images/office.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header {
+    text-align: center;
+    color:white;
+}
+.aboutOffice {
+    color:white;
+}
 
 
 
