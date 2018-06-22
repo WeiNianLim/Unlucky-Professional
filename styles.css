@@ -36,12 +36,17 @@ h2{
 
 /* contact styles */
 .contactHeader {
-    margin-top: 35%;
+    margin-top: 25%;
+    background: grey;
+    color: white;
+    
 
     
 }
+
+
 form {
-    color: black;
+    color: white;
     text-align: center;
     width: 65%;
     margin: auto;
@@ -50,6 +55,12 @@ form {
 }
 h1 {
     margin: auto;
+    text-align: center;
+}
+
+#contactlist {
+    margin: auto;
+    width: auto;
     text-align: center;
 }
 
